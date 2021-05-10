@@ -30,7 +30,7 @@ python preidct.py
 ```
 ## Contributors:
 
-[Yaorun Zhang](https://github.com/Patton-Zhang), mentored by [Dr.Xu Sun](https://github.com/xu-sun-hub)
+[Yaorun Zhang](https://github.com/Patton-Zhang), mentored by Leijing Zhou, Siyang Song, [Dr.Xu Sun](https://github.com/xu-sun-hub)
 
 <br>
 
