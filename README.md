@@ -1,6 +1,6 @@
 # Image Cultural Style Classification Tool
 
-This is the code repository for a pretrained image cultural style classification model.
+This is the code repository for a pretrained image cultural style classification model. The model is developed to factilitate the research "A tool to facilitate cross-cultural design process using deep learning". 
 
 ## Motivation
 To analyze the cultural style of an image, a pretrained Resnet 50 model was developed to estimate whether the image belongs to Dutch style or non-Dutch style.
